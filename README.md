@@ -8,9 +8,13 @@ As a Cyber Security Analyst, it is an essential skill to be able to detect softw
 [Bullet Points]
 
 -Understanding of Unified Security Management (USM) platform.
+
 -Performing asset discovery to identify devices on a network.
+
 -Configuring and running vulnerability scans.
+
 -Interpreting scan results to identify software vulnerabilities.
+
 -Basic knowledge of AlienVault's correlation capabilities for threat detection.
 
 #### Tools Used
