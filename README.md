@@ -23,3 +23,13 @@ As a Cyber Security Analyst, it is an essential skill to be able to detect softw
 -Damn Vulnerable Web Application (DVWA)
 
 ## Steps
+
+Ref: Lap Topolgy 
+
+<img src="https://imgur.com/xgWyqit.png" height="80%" width="80%"/>
+
+Step 1. Connect to PLABWIN10.
+
+<img src="https://imgur.com/jwWwGhc.png" height="80%" width="80%"/>
+
+
