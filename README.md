@@ -32,4 +32,22 @@ Step 1. Connect to PLABWIN10.
 
 <img src="https://imgur.com/jwWwGhc.png" height="80%" width="80%"/>
 
+Step 2. Open XAMMP and start APACHE and MySQL
 
+<img src="https://imgur.com/ZPnB43n.png" height="80%" width="80%"/>
+
+Step 3. Type in http://192.168.0.4/dvwa and username and password
+
+<img src="https://imgur.com/79BCd9H.png" height="80%" width="80%"/>
+
+Step 4. Open XAMMP and start APACHE and MySQL
+
+<img src="" height="80%" width="80%"/>
+
+Step 5. Open XAMMP and start APACHE and MySQL
+
+<img src="g" height="80%" width="80%"/>
+
+Step 6. Open XAMMP and start APACHE and MySQL
+
+<img src=".png" height="80%" width="80%"/>
